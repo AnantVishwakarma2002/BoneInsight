@@ -42,10 +42,8 @@ pip install torch torchvision numpy opencv-python pillow matplotlib
 
 ```
 
----
 
-
-##🚀 Usage
+## 🚀Usage
 
 Keep both GUI.py and mura_densenet121.pth in the same folder.
 
@@ -62,3 +60,8 @@ python GUI.py
 - Generate a Grad-CAM heatmap to visualize the region of concern
 
 ---
+
+
+## 🔒Research Notice
+
+The full training and preprocessing code are withheld due to ongoing research and publication plans.
