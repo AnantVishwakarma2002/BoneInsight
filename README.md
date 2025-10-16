@@ -34,7 +34,7 @@ This project is part of ongoing medical AI research aimed at improving explainab
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/BoneInsight.git](https://github.com/AnantVishwakarma2002/BoneInsight.git
+git clone https://github.com/AnantVishwakarma2002/BoneInsight.git
 cd BoneInsight
 
 # Install dependencies
