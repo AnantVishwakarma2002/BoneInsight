@@ -5,7 +5,7 @@ It uses **DenseNet121** for classification and **Grad-CAM** for explainable visu
 
 ---
 ## 🧩 Project Demo
-<video src="./BoneInsight_Project_Demo.mp4" autoplay loop muted playsinline width="100%"></video>
+<video src="https://github.com/AnantVishwakarma2002/BoneInsight/raw/refs/heads/main/BoneInsight_Project_Demo.mp4" autoplay loop muted playsinline width="100%"></video>
 
 ## 🖥️Screenshots
 ![Screenshot 1](./Project_Screenshot_1.png)
