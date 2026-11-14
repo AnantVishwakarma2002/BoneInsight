@@ -4,8 +4,8 @@
 It uses **DenseNet121** for classification and **Grad-CAM** for explainable visualization of affected regions.
 
 ---
-## 🖥️Screenshots
-![Screenshot 1](./BoneInsight_Project_Demo.mp4)
+## 🧩 Project Demo
+<video src="./BoneInsight_Project_Demo.mp4" autoplay loop muted playsinline width="100%"></video>
 
 ## 🖥️Screenshots
 ![Screenshot 1](./Project_Screenshot_1.png)
