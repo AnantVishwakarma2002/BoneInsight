@@ -6,7 +6,7 @@ BoneInsight classifies whether a patient’s radiograph shows any abnormality an
 This project is part of ongoing medical AI research aimed at improving explainable diagnosis from X-rays.
 
 ---
-## 🖥️ Demo
+## 🧩 Project Demo
 FOR THE FULL PROJECT DEMO, PLEASE VIEW "_**BoneInsight_Project_Demo.mp4**_".
 
 ## 🖥️Screenshots
@@ -15,23 +15,12 @@ FOR THE FULL PROJECT DEMO, PLEASE VIEW "_**BoneInsight_Project_Demo.mp4**_".
 ![Screenshot 3](./Project_Screenshot_3.png)
 ![Screenshot 4](./Project_Screenshot_4.png)
    
-
-
-## 🔍 Overview
-
-BoneInsight classifies whether a patient’s radiograph shows any abnormality and highlights the affected region using Grad-CAM-based heatmaps.  
-This project is part of ongoing medical AI research aimed at improving explainable diagnosis from X-rays.
-
----
-
 ## ⚙️ Features
 
 - 🧠 **DenseNet121** backbone trained on the MURA dataset  
 - 🔥 **Grad-CAM visualization** for explainable AI-based segmentation  
 - 🖥️ **Simple GUI interface** for easy use  
-- 📈 **Trained model** (`mura_densenet121.pth`) ready for inference  
 - 🧩 **Future work:** Grad-CAM++, Vision Transformers, and advanced segmentation
-
 
 ## 🔒Research Notice
 
