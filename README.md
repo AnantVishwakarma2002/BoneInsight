@@ -2,10 +2,12 @@
 
 **BoneInsight** is a deep learning project that detects and localizes musculoskeletal abnormalities from radiographs using the **MURA dataset**.  
 It uses **DenseNet121** for classification and **Grad-CAM** for explainable visualization of affected regions.
+BoneInsight classifies whether a patient’s radiograph shows any abnormality and highlights the affected region using Grad-CAM-based heatmaps.  
+This project is part of ongoing medical AI research aimed at improving explainable diagnosis from X-rays.
 
 ---
 ## 🖥️ Demo
-<video src="https://raw.githubusercontent.com/AnantVishwakarma2002/BoneInsight/main/BoneInsight_Project_Demo.mp4" autoplay loop muted playsinline width="100%"></video>
+FOR THE FULL PROJECT DEMO, PLEASE VIEW "_**BoneInsight_Project_Demo.mp4**_".
 
 ## 🖥️Screenshots
 ![Screenshot 1](./Project_Screenshot_1.png)
