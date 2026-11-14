@@ -6,7 +6,7 @@ It uses **DenseNet121** for classification and **Grad-CAM** for explainable visu
 ---
 
 ## 🖥️Screenshots
-![Screenshot 1](./screenshots/Image1.png)
+![Screenshot 1](./screenshots/Project Screenshot 1.png)
 ![Screenshot 2](./screenshots/Image2.png)
 ![Screenshot 3](./screenshots/Image3.png)
 ![Screenshot 4](./screenshots/Image4.png)
