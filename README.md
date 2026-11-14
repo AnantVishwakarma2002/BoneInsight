@@ -28,40 +28,7 @@ This project is part of ongoing medical AI research aimed at improving explainab
 - 📈 **Trained model** (`mura_densenet121.pth`) ready for inference  
 - 🧩 **Future work:** Grad-CAM++, Vision Transformers, and advanced segmentation
 
----
-
-## 🧰 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/AnantVishwakarma2002/BoneInsight.git
-cd BoneInsight
-
-# Install dependencies
-pip install torch torchvision numpy opencv-python pillow matplotlib
-
-```
-
-
-## 🚀Usage
-
-Keep both GUI.py and mura_densenet121.pth in the same folder.
-
-1. Run the GUI:
-```bash
-python GUI.py
-```
-2. Upload your radiograph through the interface.
-
-3. The model will:
-
-- Classify the image as Normal or Abnormal
-
-- Generate a Grad-CAM heatmap to visualize the region of concern
-
----
-
 
 ## 🔒Research Notice
 
-The full training and preprocessing code are withheld due to ongoing research and publication plans.
+The full training and preprocessing code are withheld due to ongoing research and publication plans. Contact the author (anantvishwakarma34@gmail.com) for the full source code.
